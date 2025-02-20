@@ -6,13 +6,13 @@ services:
     branch: main
     buildCommand: ./build.sh
     startCommand: bash start.sh
-    repo: https://github.com/Baqirub/Render.git
+    repo: https://github.com/testiq/Render.git
     region: frankfurt
     envVars:
       - key: API_ID
-        value: 13740761
+        value: 16425174
       - key: API_HASH
-        value: 4ce319a92c01fab2b02551af8d7f73a4
+        value: 42665789dfdb04c94c51fa14fbcbf976
       - key: ENV
         value: ANYTHING
       - key: STRING_SESSION
