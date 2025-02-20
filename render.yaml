@@ -6,7 +6,7 @@ services:
     branch: main
     buildCommand: ./build.sh
     startCommand: bash start.sh
-    repo: https://github.com/testiq/Render.git
+    repo: https://github.com/Iqog/testiq.git
     region: frankfurt
     envVars:
       - key: API_ID
